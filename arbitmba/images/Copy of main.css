@@ -1,0 +1,84 @@
+BODY {
+	  FONT-WEIGHT: normal; FONT-SIZE: 11px; FONT-STYLE: normal; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; FONT-VARIANT: normal; "FONT-COLOR: #FFFFFF; scrollbar-face-color: #000000; 	scrollbar-shadow-color: #000000; 	scrollbar-highlight-color: #FFFFFF; 	scrollbar-3dlight-color: #000000; 	scrollbar-darkshadow-color:#000000; 	scrollbar-track-color: #000000; 	scrollbar-arrow-color: #FF0000;"
+
+}
+
+.conlink {
+	FONT-SIZE: 13px; FONT-STYLE: normal; FONT-FAMILY: Comic Sans MS, Arial; color: #666666 ; 
+}
+.conlink A:link {
+	FONT-WEIGHT: bold; COLOR: #666666; TEXT-DECORATION: none
+}
+.conlink A:active {
+	FONT-WEIGHT: bold; COLOR: #666666; TEXT-DECORATION: none
+}
+.conlink A:visited {
+	FONT-WEIGHT: bold; COLOR: #555555; TEXT-DECORATION: none
+}
+.conlink A:hover {
+	FONT-WEIGHT: bold; COLOR: #000000; TEXT-DECORATION: none; FONT-STYLE: italic;
+}
+.conlink H1 {
+	FONT-WEIGHT: bold; FONT-SIZE: 18px; COLOR: #FFFFFF
+}
+.conlink H2 {
+	FONT-WEIGHT: bold; FONT-SIZE: 16px; COLOR: #FFFFFF
+}
+.conlink H3 {
+	FONT-WEIGHT: bold; FONT-SIZE: 14px; COLOR: #FFFFFF
+}
+
+
+.panellink {
+	FONT-SIZE: 13px; FONT-STYLE: normal; FONT-FAMILY: Comic Sans MS, Arial; color: #FFFFFF ; 
+}
+.panellink A:link {
+	FONT-WEIGHT: bold; COLOR: #FFFFFF; TEXT-DECORATION: none
+}
+.panellink A:active {
+	FONT-WEIGHT: bold; COLOR: #FFFFFF; TEXT-DECORATION: none
+}
+.panellink A:visited {
+	FONT-WEIGHT: bold; COLOR: #EEEEEE; TEXT-DECORATION: none
+}
+.panellink A:hover {
+	FONT-WEIGHT: bold; COLOR: #000000; TEXT-DECORATION: none;
+}
+.panellink H1 {
+	FONT-WEIGHT: bold; FONT-SIZE: 18px; COLOR: #FFFFFF
+}
+.panellink H2 {
+	FONT-WEIGHT: bold; FONT-SIZE: 16px; COLOR: #FFFFFF
+}
+.panellink H3 {
+	FONT-WEIGHT: bold; FONT-SIZE: 14px; COLOR: #FFFFFF
+}
+
+
+.body {
+	FONT-SIZE: 14px; FONT-WEIGHT: bold; COLOR: #FFFFFF ; FONT-FAMILY: comic sans ms, Verdana, Arial, Helvetica
+}
+.body A:link {
+	FONT-WEIGHT: bold; COLOR: #FFFFFF; TEXT-DECORATION: underline
+}
+.body A:active {
+	FONT-WEIGHT: bold; COLOR: #FFFFFF; TEXT-DECORATION: underline
+}
+.body A:visited {
+	FONT-WEIGHT: bold; COLOR: #CCCCCC; TEXT-DECORATION: underline
+}
+.body A:hover {
+	FONT-WEIGHT: bold; COLOR: #00FF00; TEXT-DECORATION: underline
+}
+.body H1 {
+	FONT-WEIGHT: bold; FONT-SIZE: 20px; COLOR: #FFFFFF
+}
+.body H2 {
+	FONT-WEIGHT: bold; FONT-SIZE: 18px; COLOR: #FFFFFF
+}
+.body H3 {
+	FONT-WEIGHT: bold; FONT-SIZE: 16px; COLOR: #FFFFFF
+}
+
+
+
